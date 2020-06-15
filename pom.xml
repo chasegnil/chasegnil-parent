@@ -23,7 +23,7 @@
         <swagger.version>2.8.0</swagger.version>
         <fastjson.version>1.2.32</fastjson.version>
         <apache.commons-lang3.version>3.9</apache.commons-lang3.version>
-        <apache.commons-collections4.version>4.0</apache.commons-collections4.version>
+        <apache.commons-collections4.version>4.1</apache.commons-collections4.version>
         <apache.commons-pool2>2.6.2</apache.commons-pool2>
     </properties>
 
